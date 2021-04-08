@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: nupur
+title: "Welcome to our first slide!"
 ---
-Your text
-Use the left arrow to go back!
+Your txt
+Use the right arrow to go back!
